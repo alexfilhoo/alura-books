@@ -1,4 +1,4 @@
-<h1>Escalação de jogadores - JS</h1>
+<h1>Alura Books</h1>
 
 <h2>Descrição do projeto</h2>
 
